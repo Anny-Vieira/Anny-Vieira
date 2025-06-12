@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anny-vieira&label=Profile%20views&color=0e75b6&style=flat" alt="anny-vieira" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">📧 <a href="mailto:annyvieira.2002@gmail.com">annyvieira.2002@gmail.com</a></p>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
