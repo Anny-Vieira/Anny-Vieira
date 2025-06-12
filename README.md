@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, aqui é Anny Vieira</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anny-vieira" alt="anny-vieira" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anny-vieira&label=Profile%20views&color=0e75b6&style=flat" alt="anny-vieira" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
